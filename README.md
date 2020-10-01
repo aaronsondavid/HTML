@@ -1,2 +1,2 @@
 # HTML
-Learning projects
+Learning projects in html
